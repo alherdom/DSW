@@ -4,7 +4,7 @@ Vamos a **desengrasar los conocimientos de Python** con el siguiente ejercicio.
 
 Dada una **secuencia de caracteres** y un valor entero que representa el **tamaño de la serie**, se pide obtener el valor del mayor producto resultante de dividir la secuencia de caracteres en el tamaño de la serie con cálculos sucesivos.
 
-Con un ejemplo se entenderá mejor:
+Con un ejemplo se entenderá mejor: 
 
 | Secuencia | Tam. serie |
 | --------- | ---------- |
